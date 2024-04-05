@@ -1,1 +1,3 @@
 # WeaponVision-AI
+
+An upcoming update will be announced shortly....
