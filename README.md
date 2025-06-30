@@ -1,6 +1,6 @@
 # WeaponVision-AI
 
-# WeaponVision AI 🔫📹
+# WeaponVision AI
 
 **WeaponVision AI** is a cutting-edge deep learning-based surveillance software for **real-time weapon detection** in CCTV feeds, videos, and images. It is powered by a modified **YOLOv7** architecture, trained on over 79,000 curated firearm images and optimized for both **low-light performance** and **edge deployment**.
 
